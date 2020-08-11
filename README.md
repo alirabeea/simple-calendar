@@ -1,3 +1,3 @@
 # simple-calendar
 
-This is a simple calendar made with HTML, CSS, and Javascript. 
+This is a simple calendar made with HTML, CSS, and Javascript for practice.
